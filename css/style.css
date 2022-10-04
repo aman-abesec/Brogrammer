@@ -181,10 +181,10 @@ body{
     padding:0px;
   }
   .navbar{
-    padding: 1% 2%;
+    padding: 0% 0%;
   }
   .header-title{
-    font-size:2rem;
+    font-size:1.5rem;
   }
   .learn-col{
     margin:4% 3% 4% 3%;
