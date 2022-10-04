@@ -175,3 +175,21 @@ body{
   color:rgba(255,255,255,0.7);
   padding-top:2%;
 }
+
+@media only screen and (max-width: 600px) {
+  body{
+    padding:0px;
+  }
+  .navbar{
+    padding: 1% 2%;
+  }
+  .header-title{
+    font-size:2rem;
+  }
+  .learn-col{
+    margin:4% 3% 4% 3%;
+  }
+  .contact-btn{
+    margin-top:10px;
+  }
+}
